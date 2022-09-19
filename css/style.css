@@ -504,9 +504,7 @@ hr{
 
 footer {
     width: 100%;
-    padding: var(--defaultPadding);
-    margin: var(--defaultMargin);
-    border-top: 1px solid var(--borderColor);
+    min-height: 40px;
 }
 
 /* Media Queries */
