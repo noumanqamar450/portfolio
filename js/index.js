@@ -92,7 +92,7 @@ tippy('#js', {
 });
 
 tippy('#jquery', {
-    content: 'JQruey',
+    content: 'JQuery',
     placement: 'left',
     theme: 'light',
     animation: 'fade',
